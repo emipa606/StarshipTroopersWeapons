@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ======================= SST Launcher ======================= -->
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_SSTM55Rocket</defName>
+    <label>M55 rocket</label>
+    <graphicData>
+      <texPath>Things/Projectile/sst_rocket</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>TransparentPostLight</shaderType>
+    </graphicData>
+    <thingClass>Projectile_Explosive</thingClass>
+    <projectile>
+      <damageDef>Bomb</damageDef>
+      <damageAmountBase>40</damageAmountBase>
+      <explosionRadius>1.5</explosionRadius>
+      <speed>50</speed>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="SSTBaseHumanMakeableGun">
+    <defName>Gun_SSTM55RocketLauncher</defName>
+    <label>(SST) M55 Rocket Launcher</label>
+    <description>This Portable launcher was ideal for Mobile Infantry units who were engaging with arachnid threats, their entire purpose was to fire Tactical Oxygen Nukes at targets and vaporize anything near the blast. Not something you want pointed at you, unless you're a bug.</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/sst_rocketlauncher</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>1600</MarketValue>
+      <WorkToMake>75000</WorkToMake>
+      <Mass>5</Mass>
+      <AccuracyTouch>0.6</AccuracyTouch>
+      <AccuracyShort>0.8</AccuracyShort>
+      <AccuracyMedium>0.92</AccuracyMedium>
+      <AccuracyLong>0.88</AccuracyLong>
+      <RangedWeapon_Cooldown>3.5</RangedWeapon_Cooldown>
+    </statBases>
+    <recipeMaker>
+      <researchPrerequisite>MultibarrelWeapons</researchPrerequisite>
+    </recipeMaker>
+    <costList>
+      <Steel>190</Steel>
+    </costList>
+    <techLevel>Industrial</techLevel>
+    <weaponTags>
+      <li>SST_RPG</li>
+    </weaponTags>
+    <tradeTags>
+      <li>Exotic</li>
+    </tradeTags>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Bullet_SSTM55Rocket</defaultProjectile>
+        <forcedMissRadius>1.0</forcedMissRadius>
+        <warmupTime>4</warmupTime>
+        <ai_AvoidFriendlyFireRadius>5</ai_AvoidFriendlyFireRadius>
+        <range>40</range>
+        <soundCast>SST_Rocket_Shot</soundCast>
+        <soundCastTail>GunTail_Heavy</soundCastTail>
+        <onlyManualCast>true</onlyManualCast>
+        <stopBurstWithoutLos>false</stopBurstWithoutLos>
+        <targetParams>
+          <canTargetLocations>true</canTargetLocations>
+        </targetParams>
+        <muzzleFlashScale>14</muzzleFlashScale>
+      </li>
+    </verbs>
+    <tools>
+      <li>
+        <label>barrel</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>10</power>
+        <cooldownTime>1.9</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+</Defs>
