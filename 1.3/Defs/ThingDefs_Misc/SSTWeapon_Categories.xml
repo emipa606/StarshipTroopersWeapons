@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- SST Categories custom -->
+  <ThingCategoryDef>
+    <defName>StarshipTroopersRangedCat</defName>
+    <label>Starship Troopers Ranged</label>
+    <parent>WeaponsRanged</parent>
+  </ThingCategoryDef>
+  <!-- RN Melee -->
+  <ThingCategoryDef>
+    <defName>StarshipTroopersMeleeCat</defName>
+    <label>Starship Troopers Melee</label>
+    <parent>WeaponsMelee</parent>
+  </ThingCategoryDef>
+</Defs>
