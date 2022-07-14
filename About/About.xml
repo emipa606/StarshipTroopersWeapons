@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Starship Troopers - Weapons (Continued)</name>
   <packageId>Mlie.StarshipTroopersWeapons</packageId>
@@ -14,22 +14,26 @@
   <loadAfter>
     <li>CETeam.CombatExtended</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of ✯KStrudel✯™ and ChickenPluckers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1408445111
 
 - Included the CE-patch
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/StarshipTroopersWeapons][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 [img] https://media.giphy.com/media/WFDXqj12EGlck/giphy.gif [/img]
 
 
@@ -41,7 +45,7 @@ Join the Mobile Infantry today, and if you invite a friend to enlist with you; b
 
 The first weapon shipments have been aquired by the Rimworld outposts of the Federation, giving vital support to the operations being conducted within the far-spanning planets. With no way to eradicate the Arachnid menace from these resource-rich worlds withought destroying the life support of such Rimworlds, the Mobile Infantry have been deployed. As General Zielts has proclaimed;
 
-[b] [i] &quot;The Arachnids have entrenched themselves into the very pores of these Rimworlds, in order to clear them out; we will have to use our grit, determination, skill, and extreme prejudice. All of which the Mobile Infantry have. We have adopted a planet-hopping technique to conquer the stars! Damn dirty bugs!&quot; [/i] [/b]
+[b] [i] "The Arachnids have entrenched themselves into the very pores of these Rimworlds, in order to clear them out; we will have to use our grit, determination, skill, and extreme prejudice. All of which the Mobile Infantry have. We have adopted a planet-hopping technique to conquer the stars! Damn dirty bugs!" [/i] [/b]
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1408446286] [h1] Would you like to know more? [/h1] [/url]
 
@@ -57,7 +61,7 @@ The first weapon shipments have been aquired by the Rimworld outposts of the Fed
 
 [u] Kludge [/u] - Helped solve the issue with not being able to craft these guns at benches.
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
