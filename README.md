@@ -1,16 +1,16 @@
 # StarshipTroopersWeapons
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of ✯KStrudel✯™ and ChickenPluckers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1408445111
 
 - Included the CE-patch
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 ![Image]( https://media.giphy.com/media/WFDXqj12EGlck/giphy.gif )
 
@@ -25,7 +25,7 @@ Join the Mobile Infantry today, and if you invite a friend to enlist with you; b
 
 The first weapon shipments have been aquired by the Rimworld outposts of the Federation, giving vital support to the operations being conducted within the far-spanning planets. With no way to eradicate the Arachnid menace from these resource-rich worlds withought destroying the life support of such Rimworlds, the Mobile Infantry have been deployed. As General Zielts has proclaimed;
 
-** * &quot;The Arachnids have entrenched themselves into the very pores of these Rimworlds, in order to clear them out; we will have to use our grit, determination, skill, and extreme prejudice. All of which the Mobile Infantry have. We have adopted a planet-hopping technique to conquer the stars! Damn dirty bugs!&quot; * **
+** * "The Arachnids have entrenched themselves into the very pores of these Rimworlds, in order to clear them out; we will have to use our grit, determination, skill, and extreme prejudice. All of which the Mobile Infantry have. We have adopted a planet-hopping technique to conquer the stars! Damn dirty bugs!" * **
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1408446286] #  Would you like to know more? 
  
@@ -44,7 +44,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1408446286] #  Would you 
 
 [u] Kludge [/u] - Helped solve the issue with not being able to craft these guns at benches.
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -54,6 +54,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1408446286] #  Would you 
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
