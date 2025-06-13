@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- RANGED WEAPON BASE -->
   <ThingDef Name="SSTBaseHumanMakeableGun" ParentName="BaseHumanMakeableGun" Abstract="True">

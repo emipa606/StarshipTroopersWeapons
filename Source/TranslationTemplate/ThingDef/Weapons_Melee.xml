@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: (SST) Combat knife -->
+  <MeleeWeapon_SSTCombatKnife.label>(SST) Combat knife</MeleeWeapon_SSTCombatKnife.label>
+  <!-- EN: The combat knife is standard for all Mobile Infantrymen within the Federation, no man or woman should be found with ought it. After all, the enemy cannot push a button if you disable its hand. -->
+  <MeleeWeapon_SSTCombatKnife.description>The combat knife is standard for all Mobile Infantrymen within the Federation, no man or woman should be found with ought it. After all, the enemy cannot push a button if you disable its hand.</MeleeWeapon_SSTCombatKnife.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_SSTCombatKnife.tools.handle.label>handle</MeleeWeapon_SSTCombatKnife.tools.handle.label>
+  <!-- EN: blade -->
+  <MeleeWeapon_SSTCombatKnife.tools.blade.label>blade</MeleeWeapon_SSTCombatKnife.tools.blade.label>
+  <!-- EN: point -->
+  <MeleeWeapon_SSTCombatKnife.tools.point.label>point</MeleeWeapon_SSTCombatKnife.tools.point.label>
+  <!-- EN: (SST) Spade -->
+  <MeleeWeapon_SSTSpade.label>(SST) Spade</MeleeWeapon_SSTSpade.label>
+  <!-- EN: A standard issue spade that was given to Mobile Infantrymen when they needed to dig holes, or cover up bug tunnels manually. These were not carried on the persons of Mobile Infantrymen, rather kept in the rear echelon of bases to be handed out. -->
+  <MeleeWeapon_SSTSpade.description>A standard issue spade that was given to Mobile Infantrymen when they needed to dig holes, or cover up bug tunnels manually. These were not carried on the persons of Mobile Infantrymen, rather kept in the rear echelon of bases to be handed out.</MeleeWeapon_SSTSpade.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_SSTSpade.tools.handle.label>handle</MeleeWeapon_SSTSpade.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_SSTSpade.tools.head.label>head</MeleeWeapon_SSTSpade.tools.head.label>
+</LanguageData>

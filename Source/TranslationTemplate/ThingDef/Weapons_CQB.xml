@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: shotgun blast -->
+  <Bullet_SSTShotgun.label>shotgun blast</Bullet_SSTShotgun.label>
+  <!-- EN: (SST) Morita M34 Shotgun -->
+  <Gun_SSTMoritaM34Shotgun.label>(SST) Morita M34 Shotgun</Gun_SSTMoritaM34Shotgun.label>
+  <!-- EN: A shotgun used rarely within the Mobile Infantry; it's sturdy design and rugged feel allow it's user to maintain control whilst rapidly firing off shotgun shells. -->
+  <Gun_SSTMoritaM34Shotgun.description>A shotgun used rarely within the Mobile Infantry; it's sturdy design and rugged feel allow it's user to maintain control whilst rapidly firing off shotgun shells.</Gun_SSTMoritaM34Shotgun.description>
+  <!-- EN: stock -->
+  <Gun_SSTMoritaM34Shotgun.tools.stock.label>stock</Gun_SSTMoritaM34Shotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_SSTMoritaM34Shotgun.tools.barrel.label>barrel</Gun_SSTMoritaM34Shotgun.tools.barrel.label>
+  <!-- EN: (SST) Morita M34 Shotgun -->
+  <Gun_SSTMoritaM34Shotgun.verbs.Verb_Shoot.label>(SST) Morita M34 Shotgun</Gun_SSTMoritaM34Shotgun.verbs.Verb_Shoot.label>
+</LanguageData>

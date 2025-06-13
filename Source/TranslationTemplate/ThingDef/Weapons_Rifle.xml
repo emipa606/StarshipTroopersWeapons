@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: morita bullet -->
+  <Bullet_MoritaRifleBullet.label>morita bullet</Bullet_MoritaRifleBullet.label>
+  <!-- EN: (SST) Morita MK1 (Carbine) -->
+  <SST_MoritaMK1CarbineGun.label>(SST) Morita MK1 (Carbine)</SST_MoritaMK1CarbineGun.label>
+  <!-- EN: A cut-down version of the Morita Mk1 rifle, this carbine version is chambered in .308 and features no under barrel shotgun making it less unwieldy. This is a favorite of Officers within the Mobile Infantry, and Navy personnel. -->
+  <SST_MoritaMK1CarbineGun.description>A cut-down version of the Morita Mk1 rifle, this carbine version is chambered in .308 and features no under barrel shotgun making it less unwieldy. This is a favorite of Officers within the Mobile Infantry, and Navy personnel.</SST_MoritaMK1CarbineGun.description>
+  <!-- EN: stock -->
+  <SST_MoritaMK1CarbineGun.tools.stock.label>stock</SST_MoritaMK1CarbineGun.tools.stock.label>
+  <!-- EN: barrel -->
+  <SST_MoritaMK1CarbineGun.tools.barrel.label>barrel</SST_MoritaMK1CarbineGun.tools.barrel.label>
+  <!-- EN: (SST) Morita MK1 (Carbine) -->
+  <SST_MoritaMK1CarbineGun.verbs.Verb_Shoot.label>(SST) Morita MK1 (Carbine)</SST_MoritaMK1CarbineGun.verbs.Verb_Shoot.label>
+  <!-- EN: (SST) Morita Mk1 -->
+  <SST_MoritaMK1Gun.label>(SST) Morita Mk1</SST_MoritaMK1Gun.label>
+  <!-- EN: The standard rifle for the Federation. It's a fully automatic bullpup rifle chambered in .308 with an under barrel shotgun attached; a favorite within the Federation and standard-issue for the Mobile Infantry. Kill bugs! -->
+  <SST_MoritaMK1Gun.description>The standard rifle for the Federation. It's a fully automatic bullpup rifle chambered in .308 with an under barrel shotgun attached; a favorite within the Federation and standard-issue for the Mobile Infantry. Kill bugs!</SST_MoritaMK1Gun.description>
+  <!-- EN: stock -->
+  <SST_MoritaMK1Gun.tools.stock.label>stock</SST_MoritaMK1Gun.tools.stock.label>
+  <!-- EN: barrel -->
+  <SST_MoritaMK1Gun.tools.barrel.label>barrel</SST_MoritaMK1Gun.tools.barrel.label>
+  <!-- EN: (SST) Morita Mk1 -->
+  <SST_MoritaMK1Gun.verbs.Verb_Shoot.label>(SST) Morita Mk1</SST_MoritaMK1Gun.verbs.Verb_Shoot.label>
+  <!-- EN: (SST) Morita MK1 (Scoped) -->
+  <SST_MoritaMK1ScopedGun.label>(SST) Morita MK1 (Scoped)</SST_MoritaMK1ScopedGun.label>
+  <!-- EN: The standard rifle for the Federation. It is a fully automatic bullpup rifle chambered in 308. with an under barrel shotgun attached and a high powered scope, for precision bug-killing. -->
+  <SST_MoritaMK1ScopedGun.description>The standard rifle for the Federation. It is a fully automatic bullpup rifle chambered in 308. with an under barrel shotgun attached and a high powered scope, for precision bug-killing.</SST_MoritaMK1ScopedGun.description>
+  <!-- EN: stock -->
+  <SST_MoritaMK1ScopedGun.tools.stock.label>stock</SST_MoritaMK1ScopedGun.tools.stock.label>
+  <!-- EN: barrel -->
+  <SST_MoritaMK1ScopedGun.tools.barrel.label>barrel</SST_MoritaMK1ScopedGun.tools.barrel.label>
+  <!-- EN: (SST) Morita MK1 (Scoped) -->
+  <SST_MoritaMK1ScopedGun.verbs.Verb_Shoot.label>(SST) Morita MK1 (Scoped)</SST_MoritaMK1ScopedGun.verbs.Verb_Shoot.label>
+  <!-- EN: (SST) Morita Mk3 -->
+  <SST_MoritaMK3Gun.label>(SST) Morita Mk3</SST_MoritaMK3Gun.label>
+  <!-- EN: This beefed up and slightly larger version of the Morita is chambered in 10mm x 50 caseless ammunition, and wields an under barrel 30mm grenade launcher. Though it's even more unwieldy than the standard Morita, the Mk3 makes up for this with its massive punch; this is more common amongst Federal Marines, whereas the Mobile Infantry tends to stay with the Mk1. -->
+  <SST_MoritaMK3Gun.description>This beefed up and slightly larger version of the Morita is chambered in 10mm x 50 caseless ammunition, and wields an under barrel 30mm grenade launcher. Though it's even more unwieldy than the standard Morita, the Mk3 makes up for this with its massive punch; this is more common amongst Federal Marines, whereas the Mobile Infantry tends to stay with the Mk1.</SST_MoritaMK3Gun.description>
+  <!-- EN: stock -->
+  <SST_MoritaMK3Gun.tools.stock.label>stock</SST_MoritaMK3Gun.tools.stock.label>
+  <!-- EN: barrel -->
+  <SST_MoritaMK3Gun.tools.barrel.label>barrel</SST_MoritaMK3Gun.tools.barrel.label>
+  <!-- EN: (SST) Morita Mk3 -->
+  <SST_MoritaMK3Gun.verbs.Verb_Shoot.label>(SST) Morita Mk3</SST_MoritaMK3Gun.verbs.Verb_Shoot.label>
+</LanguageData>
