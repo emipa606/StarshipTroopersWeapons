@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 265698163
+CRC: 1916874096
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3a9cc6ad15dc443f65f675f469dcdb66
+    Hash: 97e08b5b1724948d6f02eeed20734346
   TypeTreeHash:
     serializedVersion: 2
     Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3a9cc6ad15dc443f65f675f469dcdb66
+    Hash: 97e08b5b1724948d6f02eeed20734346
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -18,16 +18,16 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Data/Mlie.StarshipTroopersWeapons/Textures/Things/Item/Equipment/sst_rocketlauncher.png
-- Assets/Data/Mlie.StarshipTroopersWeapons/Textures/Things/Item/Equipment/sst_morita.png
-- Assets/Data/Mlie.StarshipTroopersWeapons/Sounds/SST/SST_Morita_308_Shot.ogg
 - Assets/Data/Mlie.StarshipTroopersWeapons/Textures/Things/Item/Equipment/sst_morita_shotgun.png
-- Assets/Data/Mlie.StarshipTroopersWeapons/Textures/Things/Item/Equipment/sst_morita_mk3.png
-- Assets/Data/Mlie.StarshipTroopersWeapons/Textures/Things/Projectile/sst_rocket.png
-- Assets/Data/Mlie.StarshipTroopersWeapons/Textures/Things/Item/Equipment/sst_morita_carbine.png
-- Assets/Data/Mlie.StarshipTroopersWeapons/Sounds/SST/SST_Morita_Shotgun_Shot.ogg
-- Assets/Data/Mlie.StarshipTroopersWeapons/Textures/Things/Item/Equipment/sst_knife.png
-- Assets/Data/Mlie.StarshipTroopersWeapons/Textures/Things/Item/Equipment/sst_spade.png
+- Assets/Data/Mlie.StarshipTroopersWeapons/Textures/Things/Item/Equipment/sst_morita.png
 - Assets/Data/Mlie.StarshipTroopersWeapons/Textures/Things/Item/Equipment/sst_morita_scope.png
+- Assets/Data/Mlie.StarshipTroopersWeapons/Textures/Things/Item/Equipment/sst_spade.png
+- Assets/Data/Mlie.StarshipTroopersWeapons/Sounds/SST/SST_Morita_308_Shot.ogg
+- Assets/Data/Mlie.StarshipTroopersWeapons/Sounds/SST/SST_Morita_Shotgun_Shot.ogg
+- Assets/Data/Mlie.StarshipTroopersWeapons/Textures/Things/Item/Equipment/sst_morita_mk3.png
 - Assets/Data/Mlie.StarshipTroopersWeapons/Sounds/SST/SST_Rocket_Shot.ogg
+- Assets/Data/Mlie.StarshipTroopersWeapons/Textures/Things/Item/Equipment/sst_morita_carbine.png
+- Assets/Data/Mlie.StarshipTroopersWeapons/Textures/Things/Item/Equipment/sst_knife.png
+- Assets/Data/Mlie.StarshipTroopersWeapons/Textures/Things/Projectile/sst_rocket.png
+- Assets/Data/Mlie.StarshipTroopersWeapons/Textures/Things/Item/Equipment/sst_rocketlauncher.png
 Dependencies: []
